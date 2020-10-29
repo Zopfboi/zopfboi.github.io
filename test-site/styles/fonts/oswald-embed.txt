@@ -1,7 +1,0 @@
-To embed a font, copy the code into the <head> of your html
-
-<link>@import
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;500&display=swap" rel="stylesheet">
-CSS rules to specify families
-
-font-family: 'Oswald', sans-serif;
